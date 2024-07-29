@@ -1,0 +1,49 @@
+вызывать: arouse
+довольно-таки: pretty 
+великий: grand 
+громкость: volume
+тянуть: draw
+вагон: coach
+снабжать: provide
+поставщик: provider
+обеспечение: provision
+справиться: cope with
+состояние: condition
+приземляться: land
+район: scope
+пачка: pack
+пакет: package 
+ремесло: craft
+ремесленник: craftsman
+ловкий: crafty
+стоимость: worth
+достойный: worthy
+городской: urban
+урбанизация: urbanization
+пруд: pond
+знакомый: familiar
+знакомство: familiarity
+незнакомый: unfamiliar 
+ознакомиться: familiarize
+стучать: tap 
+колонна: column
+вина: guilt
+виновный: guilty
+рука: arm
+предплечье: forearm
+камера: chamber
+задолжать: owe
+содержать в себе: include
+включение: inclusion
+включающий в себя: inclusive
+включительно: inclusively
+назначать: appoint
+деловое свидание: appointment
+назначение на должность: appointment
+праздновать: celebrate
+праздник: celebration
+праздничный: celebratory
+оскорблять: abuse
+оскорбительный: abusive
+просыпаться: get up
+окно:window
